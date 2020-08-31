@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋
+
+- 🌍 I am a startup founder and developer based in Milan 🇮🇹
+- 🔭 Working on [Mailbrew](https://mailbrew.com/)
+- 💬 Come say hi on Twitter [@frankdilo](https://twitter.com/frankdilo).
+- 🧰 I use **React** and **Django** to develop my apps.
+
 
 <!--
 **frankdilo/frankdilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

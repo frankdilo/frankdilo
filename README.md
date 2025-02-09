@@ -1,8 +1,8 @@
 ### Hey 👋
 
 - 🌍 I am a startup founder and developer
-- 🔭 Working on [Mailbrew](https://mailbrew.com/) and [Typefully](https://typefully.com)
-- 💬 Come say hi on Twitter [@frankdilo](https://twitter.com/frankdilo).
+- 🔭 Currently working on [Typefully](https://typefully.com)
+- 💬 Follow me [@frankdilo](https://twitter.com/frankdilo)
 - 🧰 I use **React** and **Django** to develop my apps.
 
 
